@@ -12,13 +12,21 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 
 ## Research Interest
 - Machine Learning
-- Service Recommendation
+- Recommended System (Service Recommendation)
 - Natural Language Processing
 
 ## Publications
-- **Yuxiang Kuang**, Xiaoxiang Liao, Guosheng Kang*, Ye Cao, Ziyi Niu, Wen Li, Jiayan Xiang. Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation. International Conference on Computer Supported Cooperative Work in Design. 2026(CCF C)
-- Xiaoxiang Liao, **Yuxiang Kuang**, Jiahao Ma, Guosheng Kang*, Wen Li, Jiayan Xiang. Multi-View Contrastive and Similarity-Supervised Graph Collaborative Filtering for Third-Party Library Recommendation. The International Joint Conference on Neural Networks. 2026(CCF C)
+- **Yuxiang Kuang**, Xiaoxiang Liao, Guosheng Kang*, Ye Cao, Xiao Cui, Rong Hu, Jiayan Xiang. <br> "Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation". International Conference on Computer Supported Cooperative Work in Design, 2026.(IJCNN, CCF-C, Accept)
+- Xiaoxiang Liao, **Yuxiang Kuang**, Jiahao Ma, Guosheng Kang*, Wen Li, Jiayan Xiang. <br>
+"Multi-View Contrastive and Similarity-Supervised Graph Collaborative Filtering for Third-Party Library Recommendation." The International Joint Conference on Neural Networks, 2026.(CSCWD, CCF-C, Accept)
 
+## Projects
+- **《云脉——AI驱动的全场景数智医疗健康服务平台》**
+2026.04-至今<br>
+
+  **项目简介：**本项目为中国大学生计算机设计大赛参赛作品, 是一款面向智慧医院建设场景的移动应用。项目采用 Kotlin + Jetpack Compose 声明式 UI 框架, 实现患者端和医生端双端联动, 通过诊前导诊、诊中协同、诊后管理等环节的无缝衔接, 将传统医疗服务流程数字化, 提升医患之间的信息流畅度和协作效率。<br>
+  
+  **个人贡献：**负责 APP 整体架构设计与 20+ 业务模块开发, 涵盖智能导诊、预约挂号、远程问诊、健康档案、慢病管理和用药助手等功能, 基于 OkHttp3 完成 GLM-4.7 模型 API 对接, 支持流式处理和超时重试等机制。
 
 ## Awards
 - **邝玉香.** 睿抗机器人开发者大赛 - 省级三等奖 2025.07
@@ -28,14 +36,15 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 - **邝玉香.** 全国大学生英语竞赛 - 校级二等奖 2025.05
 
 ## Credit
-- 国家奖学金 2025.10
+- **国家奖学金** 2025.10
 - 国家励志奖学金 2024.12
 - 校级一等综合奖学金 2025.11
 - 校级二等综合奖学金 2024.12
 - 校级特殊贡献奖 2025.10
 - 校级优秀学生 2025.10
 - 校级优秀学生 2024.12
-- 校级“三下乡”优秀个人
+- 校级“三下乡”优秀个人 2025.10
+- 校级创新创业先进个人 2026.04
 
 ## Major Courses
 - C语言程序设计 92分
