@@ -25,7 +25,7 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 2026.04-至今<br>
 
   **项目简介：**本项目为中国大学生计算机设计大赛参赛作品, 是一款面向智慧医院建设场景的移动应用。项目采用 Kotlin + Jetpack Compose 声明式 UI 框架, 实现患者端和医生端双端联动, 通过诊前导诊、诊中协同、诊后管理等环节的无缝衔接, 将传统医疗服务流程数字化, 提升医患之间的信息流畅度和协作效率。<br>
-  
+
   **个人贡献：**负责 APP 整体架构设计与 20+ 业务模块开发, 涵盖智能导诊、预约挂号、远程问诊、健康档案、慢病管理和用药助手等功能, 基于 OkHttp3 完成 GLM-4.7 模型 API 对接, 支持流式处理和超时重试等机制。
 
 ## Awards
@@ -45,6 +45,12 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 - 校级优秀学生 2024.12
 - 校级“三下乡”优秀个人 2025.10
 - 校级创新创业先进个人 2026.04
+
+## Professional Certificate
+- CET-4（576）
+- CET-6（541）
+- CCF CSP（175）
+- 全国计算机二级（优秀）
 
 ## Major Courses
 - C语言程序设计 92分
