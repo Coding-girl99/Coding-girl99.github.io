@@ -34,6 +34,7 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 - **邝玉香.** 第十六届蓝桥杯全国软件和信息技术专业人才大赛 - 省级二等奖 2025.05
 - **邝玉香.** 参与《心灵互联——基于DeepSeek的心理健康公益平台》国家级创新训练项目 2025
 - **邝玉香.** 全国大学生英语竞赛 - 校级二等奖 2025.05
+- **邝玉香.** 第十九届中国计算机设计大赛 - 省级二等奖 2026.05
 
 ## Credit
 - **国家奖学金** 2025.10
@@ -49,8 +50,9 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 ## Professional Certificate
 - CET-4（576）
 - CET-6（541）
-- CCF CSP（175）
+- CCF CSP认证（175）
 - 全国计算机二级（优秀）
+- 普通话二级乙等
 
 ## Major Courses
 - C语言程序设计 92分
