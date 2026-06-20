@@ -21,12 +21,12 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 "Multi-View Contrastive and Similarity-Supervised Graph Collaborative Filtering for Third-Party Library Recommendation." IEEE International Conference on Computer Supported Cooperative Work in Design, 2026.(CSCWD, CCF-C, Accept)
 
 ## Projects
-- **《云脉——AI驱动的全场景数智医疗健康服务平台》**
-2026.04-至今<br>
+- **《云脉——AI驱动的全场景数智医疗健康服务平台》（中国大学生计算机设计大赛省二作品）**
+2026.03-2026.05<br>
 
-  **项目简介：**本项目为中国大学生计算机设计大赛参赛作品, 是一款面向智慧医院建设场景的移动应用。项目采用 Kotlin + Jetpack Compose 声明式 UI 框架, 实现患者端和医生端双端联动, 通过诊前导诊、诊中协同、诊后管理等环节的无缝衔接, 将传统医疗服务流程数字化, 提升医患之间的信息流畅度和协作效率。<br>
+  **项目概述：**针对患者挂号科室难判断、问诊链路不连续、诊后管理易中断的问题，基于 Kotlin + Jetpack Compose 框架开发“云脉”APP，设计“患者端 + 医生端 +AI 中枢”三位一体协同架构，实现对话式智能导诊、预约挂号、远程问诊、健康档案及用药助手等功能，打通“导诊-挂号-问诊-缴费-报告-健康管理”诊前诊中诊后全流程闭环。<br>
 
-  **个人贡献：**负责 APP 整体架构设计与 20+ 业务模块开发, 涵盖智能导诊、预约挂号、远程问诊、健康档案、慢病管理和用药助手等功能, 基于 OkHttp3 完成 GLM-4.7 模型 API 对接, 支持流式处理和超时重试等机制。
+  **负责工作：**架构设计（原型设计 + 模块划分）、功能开发（患者端智能导诊、预约挂号、远程问诊、健康档案、用药助手等 20+ 功能）、GLM-5 模型 API 对接、设计开发文档撰写与答辩 PPT 制作。
 
 ## Awards
 - **邝玉香.** 睿抗机器人开发者大赛 - 省级三等奖 2025.07
