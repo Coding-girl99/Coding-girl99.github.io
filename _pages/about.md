@@ -46,7 +46,7 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 - 校级优秀学生 2025.10
 - 校级优秀学生 2024.12
 - 校级“三下乡”优秀个人 2025.10
-- 校级“五四评优”科技创新先进个人 2026.04
+- 校级“五四评优”科技创新先进个人 2026.05
 
 ## Professional Certificate
 - CET-4（576）
