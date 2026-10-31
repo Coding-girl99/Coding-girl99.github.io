@@ -11,12 +11,12 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 
 
 ## Research Interest
+- Computer Vision
 - Machine Learning
 - Recommended System (Service Recommendation)
-- Natural Language Processing
 
 ## Publications
-- **Yuxiang Kuang**, Xiaoxiang Liao, Guosheng Kang*, Ye Cao, Xiao Cui, Rong Hu, Jiayan Xiang. <br> "Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation". IEEE International Joint Conference on Neural Networks, 2026.(IJCNN, CCF-C, Accept) [[PDF]](https://linklings.s3.amazonaws.com/organizations/WCCI/wcci2026/submissions/stype114/PUec9-ijcnn_pap3387s2.pdf)
+- **Yuxiang Kuang**, Xiaoxiang Liao, Guosheng Kang*, Ye Cao, Xiao Cui, Rong Hu, Jiayan Xiang. <br> "Multi-View Denoised Graph Collaborative Filtering for Third-Party Library Recommendation". IEEE International Joint Conference on Neural Networks, 2026.(IJCNN, CCF-C, Accept) [[PDF]](https://ieeexplore.ieee.org/abstract/document/11729764)
 - Xiaoxiang Liao, **Yuxiang Kuang**, Jiahao Ma, Guosheng Kang*, Wen Li, Jiayan Xiang. <br> "Multi-View Contrastive and Similarity-Supervised Graph Collaborative Filtering for Third-Party Library Recommendation." IEEE International Conference on Computer Supported Cooperative Work in Design, 2026.(CSCWD, CCF-C, Accept) [[PDF]](https://ieeexplore.ieee.org/abstract/document/11582792/)
 
 ## Projects
@@ -35,10 +35,13 @@ Dear friends, my name is **Yuxiang Kuang** (邝玉香), an undergraduate student
 - **邝玉香.** 睿抗机器人开发者大赛 - 省级三等奖 2025.07
 
 ## Credit
-- **国家奖学金** 2025.10
+- **国家奖学金** 2025.12
+- **国家奖学金** 2026.12
 - 校级一等综合奖学金 2025.11
-- 校级特殊贡献奖 2025.10
-- 校级优秀学生 2025.10
+- 校级一等综合奖学金 2026.11
+- 校级特殊贡献奖 2025.11
+- 校级优秀学生 2026.11
+- 校级优秀学生 2025.11
 - 校级优秀学生 2024.12
 - 校级“三下乡”优秀个人 2025.10
 - 校级“五四评优”科技创新先进个人 2026.05
